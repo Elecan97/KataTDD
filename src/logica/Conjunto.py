@@ -1,5 +1,5 @@
 class Conjunto:
-    def __init(self, conjunto):
+    def __init__(self, conjunto):
         self.__conjunto = conjunto
 
     def promedio(self):
